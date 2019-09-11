@@ -1,0 +1,46 @@
+.hautdepage
+{
+	text-align: right;
+}
+.Recherche
+{
+	text-align: center;
+}
+div
+{
+	text-align: center;
+
+}
+.centre
+{
+	text-align: center;
+}
+.France
+{
+	      height: 55px;width: 1532px;
+	      background-color: #F2F2F2;
+	      border: 1px solid #E4E4E4;
+	      margin-top: 204px
+}
+.basdepage
+{
+	        text-align: right
+	         margin-left: -25px;
+	         color: #6F6F6F
+}
+.part1
+{
+    text-align: left;
+    bottom:1%;
+    right:0%;
+    left:66%;
+    word-spacing: 5px;
+}
+
+.part2
+{
+	text-align: right;
+	margin-left: 600px;
+}
+
+ input[type="text"] { border-radius: 20px; }
